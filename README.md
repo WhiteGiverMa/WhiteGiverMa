@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**WhiteGiverMa/WhiteGiverMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 若梦 ✨
 
-Here are some ideas to get you started:
+嗨~你好呀！这里是若梦，一个在用游戏引擎造梦的女孩子 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+白天写代码，晚上也写代码（其实凌晨才是主线时间呢）
+
+</div>
+
+---
+
+## ✿ 在做什么呢
+
+| 项目 | 类型 | 说明 |
+|------|------|------|
+| 🎲 [逐梦少女](https://github.com/WhiteGiverMa/DreamerHeroines) | 2D 横板射击 | 灵感来自战火英雄 Strike Force Heroes |
+| 🏜️ [塔克拉玛干行动](https://github.com/WhiteGiverMa/operation-taklamakan) | 俯视角塔防 Roguelike | 陆行舰 + 炮塔 + 波次防守 |
+| 🃏 [少女星途卡牌](https://github.com/WhiteGiverMa/odyssey-cards) | 卡牌构建 Roguelike | 灵感来自 KARDS + 杀戮尖塔 |
+| 🧠 [intestine-ASSistant](https://github.com/WhiteGiverMa/intestine-ASSistant) | AI 助手 | 肠道健康助手……名字是故意的www |
+| 🎭 [meme-skills](https://github.com/WhiteGiverMa/meme-skills) | 中文迷因知识库 | 给 AI agent 补课用的文化语境包 |
+| 🔧 [godot-mcp](https://github.com/WhiteGiverMa/godot-mcp) | MCP Server | 让 AI agent 操作 Godot 编辑器，三代传承的 fork www |
+
+> 全部都是和 AI 一起 vibe coding 出来的，开心最重要～
+
+## ✿ 喜欢
+
+- 游戏开发 — vibe coding 太爽了（但是 AI 速度超过灵感产生速度www）
+- 打游戏 - 但是已经电子羊尾了呜呜
+- 深夜 — 安安静静的，适合写代码和发呆
+
+## ✿ 统计
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=WhiteGiverMa&show_icons=true&theme=sakura&hide_border=true&title_color=FF69B4&icon_color=FFB6C1" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteGiverMa&layout=compact&theme=sakura&hide_border=true&title_color=FF69B4" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+
+*「重要的不是有多厉害，是一直在做自己喜欢的事情哦」*
+
+🌙💤
+
+</div>
