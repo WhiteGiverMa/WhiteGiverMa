@@ -33,8 +33,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WhiteGiverMa&show_icons=true&theme=sakura&hide_border=true&title_color=FF69B4&icon_color=FFB6C1" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteGiverMa&layout=compact&theme=sakura&hide_border=true&title_color=FF69B4" height="165" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WhiteGiverMa&theme=rose&hide_border=true&area=true" alt="activity graph" />
 
 </div>
 
