@@ -1,5 +1,7 @@
 <div align="center">
 
+[English](README.en.md) | [日本語](README.ja.md)
+
 # 若梦 ✨
 
 嗨~你好呀！这里是若梦，一个在用游戏引擎造梦的女孩子 🎮
