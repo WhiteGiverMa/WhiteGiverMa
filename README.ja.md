@@ -22,7 +22,6 @@
 | 🧠 [intestine-ASSistant](https://github.com/WhiteGiverMa/intestine-ASSistant) | 排便データ記録・分析アプリ | 腸活アシスタント……名前はわざとですwww |
 | 🎭 [meme-skills](https://github.com/WhiteGiverMa/meme-skills) | 中国ミーム知識ベース | AIエージェントに文化コンテキストを教える教材 |
 | 🔧 [godot-mcp](https://github.com/WhiteGiverMa/godot-mcp) | MCP サーバー | AIエージェントにGodotエディタを操作させる、三代受け継がれたfork ww |
-| 👻 [閾限深淵 (Liminal Abyss)](https://github.com/tll-666/backrooms-roguelite) | Soul Knight系 バックルーム ホラーSTG | 親友とのコラボ作品、謎のミニゲーム >w< |
 
 > 全部 AI と vibe coding で作ったよ～楽しければそれでいいのだ！
 
@@ -31,14 +30,6 @@
 - ゲーム開発 — vibe coding 最高すぎ（でもAIの出力がインスピレーションより速いw）
 - ゲーム — もうゲーム燃え尽き症候群だよぉ……
 - 深夜 — 静かで、コーディングとボーッとするのにぴったり
-
-## ✿ 統計
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WhiteGiverMa&theme=rose&hide_border=true&area=true" alt="activity graph" />
-
-</div>
 
 ---
 
