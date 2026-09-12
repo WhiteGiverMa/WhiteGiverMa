@@ -21,7 +21,7 @@
 | 🎭 [meme-skills](https://github.com/WhiteGiverMa/meme-skills) | 中国ミーム知識ベース | AIエージェントに文化コンテキストを教える教材 |
 | 🔧 [godot-mcp](https://github.com/WhiteGiverMa/godot-mcp) | MCP サーバー | AIエージェントにGodotエディタを操作させる、三代受け継がれたfork ww |
 
-> ~~全部 AI と vibe coding で作ったよ～~~楽しければそれでいいのだ！
+> ~~全部 AI と vibe coding で作ったよ～~~ 楽しければそれでいいのだ！
 
 ## ✿ 好きなこと
 
