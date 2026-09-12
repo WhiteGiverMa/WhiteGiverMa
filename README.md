@@ -21,7 +21,7 @@
 | 🎭 [meme-skills](https://github.com/WhiteGiverMa/meme-skills) | 中文迷因知识库 | 给 AI agent 补课用的文化语境包 |
 | 🔧 [godot-mcp](https://github.com/WhiteGiverMa/godot-mcp) | MCP Server | 让 AI agent 操作 Godot 编辑器，三代传承的 fork ww |
 
-> 全部都是和 AI 一起 vibe coding 出来的，开心最重要～
+> ~~全部都是和 AI 一起 vibe coding 出来的，~~开心最重要～
 
 ## ✿ 喜欢
 

@@ -21,12 +21,12 @@ Hi there~ I'm Ruomeng (Alyssa), a girl who builds dreams with game engines 🎮
 | 🎭 [meme-skills](https://github.com/WhiteGiverMa/meme-skills) | Chinese Meme Knowledge Base | Cultural context packs to educate AI agents |
 | 🔧 [godot-mcp](https://github.com/WhiteGiverMa/godot-mcp) | MCP Server | Let AI agents control the Godot editor — a fork passed down three generations ww |
 
-> All built with AI via vibe coding — having fun is what matters most~
+> ~~All built with AI via vibe coding~~ — having fun is what matters most~
 
 ## ✿ Things I Like
 
 - Game Dev — vibe coding is way too fun (though AI outputs faster than my inspiration kicks in lol)
-- Gaming — but I've got gamer's burnout already… 😭
+- Gaming — but I've got gamer's burnout already… 😭(Valorant I hate u)
 - Late Nights — so quiet, perfect for coding and daydreaming
 
 ---
