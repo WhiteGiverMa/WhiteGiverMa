@@ -1,6 +1,6 @@
 <div align="center">
 
-[English](README.en.md) | [日本語](README.ja.md)
+| **中文版** | [English](README.en.md) | [日本語](README.ja.md) |
 
 # 若梦 ✨
 

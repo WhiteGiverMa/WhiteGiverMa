@@ -1,6 +1,6 @@
 <div align="center">
 
-[中文](README.md) | [English](README.en.md)
+| [中文](README.md) | [English](README.en.md) | **日本语** 日本语本当上手desu |
 
 # 若夢（ルオモン） ✨
 
