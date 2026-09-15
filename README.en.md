@@ -29,6 +29,10 @@ Hi there~ I'm Ruomeng (Alyssa), a girl who builds dreams with game engines 🎮
 - Gaming — but I've got gamer's burnout already… 😭(Valorant I hate u)
 - Late Nights — so quiet, perfect for coding and daydreaming
 
+## ✿ Words to Say
+
+If you find that the work I am doing with AI has caused trouble or the AI smell is very serious, please @ me directly!
+
 ---
 
 <div align="center">
