@@ -20,6 +20,7 @@ Hi there~ I'm Ruomeng (Alyssa), a girl who builds dreams with game engines 🎮
 | 🧠 [intestine-ASSistant](https://github.com/WhiteGiverMa/intestine-ASSistant) | Bowel Data Tracking & Analysis | Gut health assistant… the name is intentional lol |
 | 🎭 [meme-skills](https://github.com/WhiteGiverMa/meme-skills) | Chinese Meme Knowledge Base | Cultural context packs to educate AI agents |
 | 🔧 [godot-mcp](https://github.com/WhiteGiverMa/godot-mcp) | MCP Server | Let AI agents control the Godot editor — a fork passed down three generations ww |
+| 🔌 [Oh Our OpenCode](https://github.com/WhiteGiverMa/oh-our-opencode) | OpenCode Plugins | A series of QOL plugins that polish the OpenCode v2 experience |
 
 > ~~All built with AI via vibe coding~~ — having fun is what matters most~
 

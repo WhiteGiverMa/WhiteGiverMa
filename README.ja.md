@@ -20,6 +20,7 @@
 | 🧠 [intestine-ASSistant](https://github.com/WhiteGiverMa/intestine-ASSistant) | 排便データ記録・分析アプリ | 腸活アシスタント……名前はわざとですwww |
 | 🎭 [meme-skills](https://github.com/WhiteGiverMa/meme-skills) | 中国ミーム知識ベース | AIエージェントに文化コンテキストを教える教材 |
 | 🔧 [godot-mcp](https://github.com/WhiteGiverMa/godot-mcp) | MCP サーバー | AIエージェントにGodotエディタを操作させる、三代受け継がれたfork ww |
+| 🔌 [Oh Our OpenCode](https://github.com/WhiteGiverMa/oh-our-opencode) | OpenCode プラグイン集 | OpenCode v2 の体験を磨く QOL プラグインシリーズ |
 
 > ~~全部 AI と vibe coding で作ったよ～~~ 楽しければそれでいいのだ！
 

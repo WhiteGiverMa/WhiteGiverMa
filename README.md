@@ -20,6 +20,7 @@
 | 🚽 [intestine-ASSistant](https://github.com/WhiteGiverMa/intestine-ASSistant) | 排便数据记录&分析软件 | 肠道健康助手……名字是故意的www |
 | 🎭 [meme-skills](https://github.com/WhiteGiverMa/meme-skills) | 中文迷因知识库 | 给 AI agent 补课用的文化语境包 |
 | 🔧 [godot-mcp](https://github.com/WhiteGiverMa/godot-mcp) | MCP Server | 让 AI agent 操作 Godot 编辑器，三代传承的 fork ww |
+| 🔌 [Oh Our OpenCode](https://github.com/WhiteGiverMa/oh-our-opencode) | OpenCode 插件集 | 优化 OpenCode v2 体验的一系列 QOL 插件 |
 
 > ~~全部都是和 AI 一起 vibe coding 出来的，~~ 开心最重要～
 
